@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Baloo 2";
+    src: url("./fonts/Baloo2-VariableFont_wght.ttf");
+  }
+@font-face {
+    font-family: "Raleway";
+    src: url("./fonts/Raleway-Medium.ttf");
+  }
+@font-face {
+	font-family: "Poppins";
+	src: url("./fonts/Poppins-Regular.ttf");
+}
+@font-face {
+	font-family: "Comfortaa";
+	src: url("./fonts/Comfortaa-VariableFont_wght.ttf");
+}
+@font-face {
+	font-family: "Montserrat";
+	src: url("./fonts/Montserrat-VariableFont_wght.ttf");
+}
