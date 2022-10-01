@@ -73,7 +73,7 @@ body {
     text-shadow: 0 0 8px rgba(0, 0, 0, 0.726);
 }
 input[type=range]{
-    color: white;
+    cursor: grabbing;
 }
 input[type=color]{
     box-shadow: 0 0 5px rgba(255, 255, 255, 0.801), 0 0 6px rgba(255, 255, 255, 0.842),0 0 8px rgba(0, 0, 0, 0.726);
