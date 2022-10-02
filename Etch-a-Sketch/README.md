@@ -1,7 +1,8 @@
 <h1 align="center"> Project Etch-a-Sketch </h1>
 
 ### Project Preview:
-![](./assets/Project-Preview.png)
+
+<img align="center" src="./assets/Project-Preview.png"/>
 
 ---
 
@@ -9,14 +10,18 @@
 
 ---
 ## About:  
-![](./assets/About-card.png)
+
+<img align="center" src="./assets/About-card.png"/>
 
 ---
+
 ## What I Developed:
 + Problem Solving ++
 + UI/UX Combinations ++
 + Creativity ++
 
 ---
+
 <br>
 <h3 align="center"> Copyright 2022 - <a href="https://github.com/0xAbdulKhalid">Abdul Khalid</a></h3>
+<br>
