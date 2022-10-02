@@ -2,7 +2,9 @@
 
 ### Project Preview:
 
-<img align="center" src="./assets/Project-Preview.png"/>
+<div align="center">
+<img src="./assets/Project-Preview.png"/>
+</div>
 
 ---
 
@@ -11,7 +13,9 @@
 ---
 ## About:  
 
+<div align="center">
 <img align="center" src="./assets/About-card.png"/>
+</div>
 
 ---
 
