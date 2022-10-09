@@ -19,7 +19,7 @@
     For Simple Calculations
     <br />
     <br />
-    <a href="https://github.com/0xAbdulKhalid/Odin-Project-Workspace/Calculator">View Demo</a>
+    <a href="https://0xabdulkhalid.github.io/Odin-Project-Workspace/Calculator/">View Demo</a>
     ·
     <a href="https://github.com/0xAbdulKhalid/Odin-Project-Workspace/Calculator/issues">Report Bug</a>
     ·
