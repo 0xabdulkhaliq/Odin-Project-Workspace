@@ -137,5 +137,5 @@
 [issues-shield]: https://img.shields.io/github/issues/0xAbdulKhalid/Odin-Project-Workspace.svg?style=for-the-badge
 [issues-url]: https://github.com/0xAbdulKhalid/Odin-Project-Workspace/issues
 [license-shield]: https://img.shields.io/github/license/0xAbdulKhalid/Odin-Project-Workspace.svg?style=for-the-badge
-[license-url]: https://github.com/0xAbdulKhalid/Odin-Project-Workspace/blob/master/LICENSE.txt
+[license-url]: https://github.com/0xAbdulKhalid/Odin-Project-Workspace/blob/main/LICENSE.txt
 [product-screenshot]: ./assets/images/preview.png
