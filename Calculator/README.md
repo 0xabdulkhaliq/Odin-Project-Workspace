@@ -1,8 +1,7 @@
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/0xAbdulKhalid/Odin-Project-Workspace">
-    <img src="./assets/images/calculator.png" alt="Logo" width="100">
+    <img src="./assets/images/calculator.png" alt="Logo" width="150">
   </a>
 
 <h3 align="center">Calculator</h3>
@@ -24,7 +23,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Preview
 
-[![Product Name Screen Shot][product-screenshot]](#)
+<div align="center">
+ <img src="./assets/images/preview.png">
+</div>
 
 
 ### Built With
@@ -117,6 +118,3 @@
 
 * GitHub: [0xAbdulKhalid](https://github.com/0xAbdulKhalid)
 * Mail me: mezmerizingbeats2004@gmail.com
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: ./assets/images/preview.png
