@@ -21,9 +21,9 @@
     <br />
     <a href="https://0xabdulkhalid.github.io/Odin-Project-Workspace/Calculator/">View Demo</a>
     ·
-    <a href="https://github.com/0xAbdulKhalid/Odin-Project-Workspace/Calculator/issues">Report Bug</a>
+    <a href="https://github.com/0xAbdulKhalid/Odin-Project-Workspace/issues">Report Bug</a>
     ·
-    <a href="https://github.com/0xAbdulKhalid/Odin-Project-Workspace/Calculator/issues">Request Feature</a>
+    <a href="https://github.com/0xAbdulKhalid/Odin-Project-Workspace/issues">Request Feature</a>
   </p>
 </div>
 
