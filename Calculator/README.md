@@ -114,7 +114,10 @@
 <!-- CONTACT -->
 ## Author
 
-<p align="center">👤 <b>Abdul Khalid</b></p>
+<div align="center">
 
-* GitHub: [0xAbdulKhalid](https://github.com/0xAbdulKhalid)
-* Mail me: mezmerizingbeats2004@gmail.com
+<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+</div>
