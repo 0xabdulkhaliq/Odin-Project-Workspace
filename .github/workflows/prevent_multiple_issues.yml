@@ -36,7 +36,7 @@ jobs:
             console.log(`Close issue: ${closeIssue}`);
 
             if (closeIssue) {
-              const comment = `Hey @${openerName} , You can't have another issue before completing the previous one 😀 \n you already have the following ${previousOpenIssues.length} open issues 👀 ! :\n\n${previousOpenIssueNumbers.join('\n')}`;
+              const comment = `Hey @${openerName} , You can't have another issue before completing the previous one 😀 \n you already have the following ${previousOpenIssues.length} open issues 👀 ! :\n\n<h2>${previousOpenIssueNumbers.join('\n')}</h2>`;
               core.exportVariable('comment_body', comment); // Export the variable
               core.setOutput('close_issue', true);
             } else {
